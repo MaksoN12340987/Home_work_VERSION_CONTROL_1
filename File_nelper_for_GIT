@@ -5,6 +5,21 @@
 ---
 ## work on the current change (see also: git help everyday)
 
+* add       Add file contents to the index
+
+(добавить файлы к отслеживанию)
+
+* mv        Move or rename a file, a directory, or a symlink
+
+(Переместить или переименовать файл, каталог или символическую ссылку)
+
+* restore   Restore working tree files
+
+(Восстановить файлы рабочего дерева)
+
+* rm        Remove files from the working tree and from the index
+
+(Удалить файлы из рабочего дерева и из отслеживания)
 
 ---
 ## grow, mark and tweak your common history
