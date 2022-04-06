@@ -11,6 +11,7 @@
 (Создайте пустой репозиторий Git или повторно инициализируйте существующий)
 
 ---
+
 ## work on the current change (see also: git help everyday)
 
 * add       Add file contents to the index
@@ -35,6 +36,7 @@ git commit -m "merge grow"
 (Удалить файлы из рабочего дерева и из отслеживания)
 
 ---
+
 ## grow, mark and tweak your common history
 
 * branch    List, create, or delete branches
@@ -66,6 +68,7 @@ git commit -m "merge grow"
 (Создать, перечислить, удалить или проверить объект тега, подписанный с помощью GPG)
 
 ---
+
 ## collaborate (see also: git help workflows)
 
 * fetch     Download objects and refs from another repository
