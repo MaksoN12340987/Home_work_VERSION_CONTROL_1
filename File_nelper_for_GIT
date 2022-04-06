@@ -9,6 +9,33 @@
 ---
 ## grow, mark and tweak your common history
 
+* branch    List, create, or delete branches
+
+(Список, создание или удаление ветвей)
+
+* commit    Record changes to the repository
+
+(Записать изменения в репозиторий)
+
+* merge     Join two or more development histories together
+
+(объединить две или более истории развития вместе)
+
+* rebase    Reapply commits on top of another base tip
+
+(перезаписывает, совершает коммит поверх другого)
+
+* reset     Reset current HEAD to the specified state
+
+(Сбросить текущий HEAD в указанное состояние)
+
+* switch    Switch branches
+
+(Переключить ветки)
+
+* tag       Create, list, delete or verify a tag object signed with GPG
+
+(Создать, перечислить, удалить или проверить объект тега, подписанный с помощью GPG)
 
 ---
 ## collaborate (see also: git help workflows)
