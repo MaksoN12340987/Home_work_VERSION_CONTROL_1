@@ -29,7 +29,12 @@ collaborate (see also: git help workflows)
    fetch     Download objects and refs from another repository
    pull      Fetch from and integrate with another repository or a local branch
    push      Update remote refs along with associated objects
+<<<<<<< HEAD
    запустить рабочую область (см. также: git help tutorial)
+=======
+
+запустить рабочую область (см. также: git help tutorial)
+>>>>>>> collaborate
    clone Клонировать репозиторий в новый каталог
    init Создайте пустой репозиторий Git или повторно инициализируйте существующий
 

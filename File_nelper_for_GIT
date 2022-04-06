@@ -17,6 +17,11 @@
 
 (добавить файлы к отслеживанию)
 
+```
+git add .\File_nelper_for_GIT
+git commit -m "merge grow"
+```
+
 * mv        Move or rename a file, a directory, or a symlink
 
 (Переместить или переименовать файл, каталог или символическую ссылку)
@@ -63,5 +68,16 @@
 ---
 ## collaborate (see also: git help workflows)
 
+* fetch     Download objects and refs from another repository
+
+(Загрузка объектов и ссылок из другого репозитория)
+
+* pull      Fetch from and integrate with another repository or a local branch
+
+(вытащить Fetch и интегрировать с другим репозиторием или локальной веткой)
+
+* push      Update remote refs along with associated objects
+
+(Обновление удаленных ссылок вместе со связанными объектами)
 
 ---
