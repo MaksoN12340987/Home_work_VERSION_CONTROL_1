@@ -33,7 +33,7 @@ git commit -m "initial"
 
 * rm        Remove files from the working tree and from the index
 
-(Удалить файлы из рабочего дерева и из отслеживания)
+(Удалить файлы из рабочего дерева и из отслеживания)(нифига чет не работает)
 
 ---
 
