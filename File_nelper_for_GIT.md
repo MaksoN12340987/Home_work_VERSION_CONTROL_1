@@ -20,7 +20,7 @@
 
 ```
 git add .\File_nelper_for_GIT
-git commit -m "merge grow"
+git commit -m "initial"
 ```
 
 * mv        Move or rename a file, a directory, or a symlink
